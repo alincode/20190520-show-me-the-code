@@ -1,0 +1,23 @@
+{
+  "name": "20190520-show-me-the-code",
+  "version": "1.0.0",
+  "description": "* what is function? * why we use functional?   * resolve mess this scope * how to more functional?   * avoid `for`, `while`, then use `map`   * avoid use share state   * pure function",
+  "main": "01-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alincode/20190520-show-me-the-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alincode/20190520-show-me-the-code/issues"
+  },
+  "homepage": "https://github.com/alincode/20190520-show-me-the-code#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
